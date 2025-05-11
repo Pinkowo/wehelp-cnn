@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+
+# Virtual Environment
+venv/
+
+# Model & output
+*.pth
+*.pt
+
+# Dataset (太大不要上傳)
+augmented_images/
+combined_folder/
