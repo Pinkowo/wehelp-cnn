@@ -2,3 +2,5 @@ torch>=2.0
 torchvision
 pandas
 tqdm
+matplotlib
+numpy
