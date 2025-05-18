@@ -1,6 +1,8 @@
 torch>=2.0
-torchvision
+torchvision>=0.15
 pandas
 tqdm
 matplotlib
 numpy
+pillow
+pycocotools

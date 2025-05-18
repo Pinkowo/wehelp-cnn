@@ -16,3 +16,5 @@ venv/
 # Dataset (太大不要上傳)
 augmented_images/
 combined_folder/
+test/
+train/
